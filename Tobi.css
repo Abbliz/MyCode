@@ -1,0 +1,134 @@
+body{
+background: white;	
+}
+.header{
+	background: url("images/plus (2).jpg");
+	padding: 100px; 
+}
+.header ul{
+	text-align: center;
+	margin: 50px;
+	padding: 30px;
+	background: rgba(0,0,0,0.7);
+	list-style: none;
+
+
+}
+.header ul li{
+	background: white;
+	margin: 20px;
+	padding: 20px;
+    text-decoration: yellow;
+    display: inline-block;
+    font-weight: bold;
+    font-family: arial;
+}
+.header ul li a{
+	font-size: 30px;
+	text-decoration:none; 
+
+}
+.header ul li a:hover{
+	background: red;
+
+}
+
+#Joy{
+	height: 120px;
+	width: 120px;
+	border-radius:50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block; 
+}
+
+.sidebar{
+	display: inline-block;
+	width: 15%;
+	padding: 30px;
+	background: #ccc; 
+}
+
+.sidebar p{
+	color: green;
+	text-transform: uppercase;
+	font-family: calibri;
+}
+
+.sidebar p:hover,.sidebar p:active,.sidebar p:focus{
+	background-color: red;
+	text-align: center;
+	font-weight: bold; 
+	padding: 5px; 
+}
+#content{
+		float: right;
+}
+#content h1{
+	text-align: center;
+}
+#content form{
+	margin: 10px;
+	padding: 20px;
+	box-shadow: 3px 3px 3px 3px silver;
+}/*
+#form{
+	width: 50px;*/
+}
+#form-input{
+	margin:10px;
+	padding: 10px;	
+	}
+#form-input input;focus, #form-input input:active{
+	box-shadow:2px 2px red;
+	border: 5px;
+	padding: 4px;
+
+}
+#form-input input{
+	text-transform: uppercase;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
